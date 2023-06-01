@@ -9,11 +9,11 @@ export type ExampleModel = {
 
 const EXAMPLES: ExampleModel[] = [
     {
-        text: "What is included in my Northwind Health Plus plan that is not in standard?",
-        value: "What is included in my Northwind Health Plus plan that is not in standard?"
+        text: "What new features are available in the latest release of ResourceLink?",
+        value: "What new features are available in the latest release of ResourceLink?"
     },
-    { text: "What happens in a performance review?", value: "What happens in a performance review?" },
-    { text: "What does a Product Manager do?", value: "What does a Product Manager do?" }
+    { text: "How do I run a payroll calculation?", value: "How do I run a payroll calculation?" },
+    { text: "What is wagestream and is it available in ResourceLink?", value: "What is wagestream and is it available in ResourceLink?" }
 ];
 
 interface Props {
